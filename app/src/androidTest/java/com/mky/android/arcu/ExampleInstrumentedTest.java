@@ -1,4 +1,4 @@
-package inc.only4.arcu;
+package com.mky.android.arcu;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("inc.only4.arcu", appContext.getPackageName());
+        assertEquals("com.mky.android.arcu", appContext.getPackageName());
     }
 }

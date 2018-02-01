@@ -1,4 +1,4 @@
-package inc.only4.arcu;
+package com.mky.android.arcu;
 
 import org.junit.Test;
 
